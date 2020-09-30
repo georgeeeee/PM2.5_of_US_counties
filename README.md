@@ -1,4 +1,4 @@
-# PM2.5_of_US_counties
+# PM2.5 of US counties
 
 ## Data
 
