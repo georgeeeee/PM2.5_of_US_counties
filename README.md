@@ -8,7 +8,7 @@ The data I propose to visualize for my project is from [Two Decades of Pollution
 
 I’ve created a proof of concept visualization of this data. It's a US map with counties and it shows the concentration of each county by the shade of color in a specific year. 
 
-[![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)](https://vizhub.com/georgeeeee/39e845953d7547e5b2b8aede08714d87?edit=files&file=index.js)
+[![image](https://user-images.githubusercontent.com/18320430/94645772-b0e67d00-02ba-11eb-8fc4-4d205e878e1b.jpg)](https://vizhub.com/georgeeeee/39e845953d7547e5b2b8aede08714d87?edit=files&file=index.js)
 
 ## Questions & Tasks
 
