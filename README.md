@@ -14,16 +14,14 @@ I’ve created a proof of concept visualization of this data. It's a US map with
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which areas of US has the relatively high concentration of PM2.5 in each year? What about the areas with low concentration?
+ * What are the tendencies of PM2.5 in US over time?
 
 ## Sketches
 
-[!image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
+The data of concentration of PM2.5 is presented by the shade of color of each county. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a scrollbar on the bottom of the map which can be dragged by users to switch the year. The scrollbar will shift automatically after the initialization of the website to present the changes of PM2.5 over year. 
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+So far I'm not sure how to realize the animation by d3 as well as how to load a portion of data in a single tiem frame because the data source contains all of the 18 years of the PM2.5 concentration value which needs to be presented year by year.
