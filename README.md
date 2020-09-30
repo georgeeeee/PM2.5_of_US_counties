@@ -15,7 +15,8 @@ I’ve created a proof of concept visualization of this data. It's a US map with
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which areas of US has the relatively high concentration of PM2.5 in each year? What about the areas with low concentration?
- * What are the tendencies of PM2.5 in US over time?
+ * What are the tendencies of PM2.5 in each county US over time?
+ * What is the highest historical PM2.5 concentrations for each county?
 
 ## Sketches
 
