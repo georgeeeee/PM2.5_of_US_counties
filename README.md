@@ -21,7 +21,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 ![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
-The data of concentration of PM2.5 is presented by the shade of color of each county. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a scrollbar on the bottom of the map which can be dragged by users to switch the year. The scrollbar will shift automatically after the initialization of the website to present the changes of PM2.5 over year. 
+The data of concentration of PM2.5 is presented by the shade of color of each county. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a scrollbar on the bottom of the map **which can be dragged by users to switch the year**. The scrollbar will shift automatically after the initialization of the website to present the changes of PM2.5 concentration over year. 
 
 ## Open Questions
 
