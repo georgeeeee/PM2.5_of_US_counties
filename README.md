@@ -43,3 +43,6 @@ finish the final project proposal | before week 10
 finish the portfolio video | before week 10
 
 
+*The end of each week is assumed on Wednesday.*
+
+
