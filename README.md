@@ -6,7 +6,6 @@ The data I propose to visualize in my project is from [Two Decades of Pollution 
 
 ## Sketches
 The data of concentration of PM2.5 is presented by the shade of color of each county in the US. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a slider on the bottom of the map enabling users to switch the year they want. The slider will shift automatically after the initialization of the website to present the changes of PM2.5 concentration over year. 
-Data of PM2.5 concentration from [PM2.5 by County](https://gist.github.com/georgeeeee/0342e8e427e75c369d5981550dd4b83c).
 
 ![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
 
