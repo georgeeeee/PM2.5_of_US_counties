@@ -4,7 +4,7 @@ A US choropleth map with the concentration of PM2.5 of each county from 2000 to 
 ## Data
 The data I propose to visualize in my project is from [Two Decades of Pollution in US](https://github.com/maurosc3ner/uspm25_2000_2018/blob/master/data/pm2.5byCounty.csv).
 
-## Sketches
+## Sketch
 The data of concentration of PM2.5 is presented by the shade of color of each county in the US. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a slider on the bottom of the map enabling users to switch the year they want. The slider will shift automatically after the initialization of the website to present the changes of PM2.5 concentration over year. 
 
 ![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
