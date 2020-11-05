@@ -5,9 +5,9 @@
 The data I propose to visualize in my project is from [Two Decades of Pollution in US](https://github.com/maurosc3ner/uspm25_2000_2018/blob/master/data/pm2.5byCounty.csv).
 
 ## Sketches
+The data of concentration of PM2.5 is presented by the shade of color of each county in the US. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a slider on the bottom of the map enabling users to switch the year they want. The slider will shift automatically after the initialization of the website to present the changes of PM2.5 concentration over year. 
 
 ![image](https://user-images.githubusercontent.com/18320430/94642072-20576f00-02b1-11eb-8f19-58447ba7f63a.PNG)
-The data of concentration of PM2.5 is presented by the shade of color of each county in the US. The deeper the color refers to the higher PM2.5 concentration in that area. And there is a slider on the bottom of the map enabling users to switch the year they want. The slider will shift automatically after the initialization of the website to present the changes of PM2.5 concentration over year. 
 
 ## Prototypes
 
@@ -45,8 +45,9 @@ finish the portfolio video | before week 10
 *The end of each week is assumed on Wednesday.*
 
 ## Final Deliverable
-[![image](https://user-images.githubusercontent.com/18320430/98187134-3a065a80-1ede-11eb-9c4b-19fe10b8ebd2.jpg)](https://vizhub.com/georgeeeee/6f114e2add8f4dc49d1e1e9624febcb0)
 The final deliverable is completed mainly based on the sketches and prototype except for some minor changes such as shifting the position of the color legend and the slider, reversing the color legend, and so on. Besides, the slider will start to shift only after clicking the 'play' button instead of shifting once the webpage is initialized.
+
+[![image](https://user-images.githubusercontent.com/18320430/98187134-3a065a80-1ede-11eb-9c4b-19fe10b8ebd2.jpg)](https://vizhub.com/georgeeeee/6f114e2add8f4dc49d1e1e9624febcb0)
 
 ## Timeline
 Finished by 10/14
