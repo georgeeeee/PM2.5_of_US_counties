@@ -15,7 +15,7 @@ Inspired by [Choropleth](https://observablehq.com/@d3/choropleth).
 
 [![image](https://user-images.githubusercontent.com/18320430/94645772-b0e67d00-02ba-11eb-8fc4-4d205e878e1b.jpg)](https://vizhub.com/georgeeeee/39e845953d7547e5b2b8aede08714d87?edit=files&file=index.js)
 
-## Huristic Questions
+## Heuristic Questions
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which areas of US has the relatively high concentration of PM2.5 in each year? What about the areas with the relatively low concentration?
