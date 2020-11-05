@@ -1,5 +1,5 @@
 # PM2.5 of US counties
-The final version of the [Data Visualization final project](https://github.com/georgeeeee/PM2.5_of_US_counties).
+A US choropleth map with the concentration of PM2.5 of each county from 2000 to 2018.
 
 ## Data
 The data I propose to visualize in my project is from [Two Decades of Pollution in US](https://github.com/maurosc3ner/uspm25_2000_2018/blob/master/data/pm2.5byCounty.csv).
