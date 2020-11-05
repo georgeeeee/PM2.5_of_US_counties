@@ -45,4 +45,5 @@ finish the portfolio video | before week 10
 
 *The end of each week is assumed on Wednesday.*
 
+## Final Deliverables
 
